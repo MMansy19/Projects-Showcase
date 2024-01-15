@@ -2,7 +2,7 @@
 
 ## Overview
 DevInnovate Hub is a portfolio dashboard that showcases my various projects, highlighting skills and technologies used in each. It serves as a centralized hub for professionals, recruiters, and fellow developers to explore my work and expertise.
-## [Picture]("assets\pic.jpeg")
+## [Picture]("assets/pic.jpeg")
 ## Features
 - **Profile Card:** Display personal information, including a profile picture and a brief introduction.
 - **Social Links:** Connect with me through GitHub, LinkedIn, Twitter, and other social media platforms.
